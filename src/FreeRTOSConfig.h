@@ -56,7 +56,7 @@
 #define configMINIMAL_STACK_SIZE            ( 192 )
 #define configMAX_TASK_NAME_LEN             ( 16 )
 
-#define configTOTAL_HEAP_SIZE 				3500   // Heap size 
+#define configTOTAL_HEAP_SIZE 				3600   // Heap size 
 
 #define configQUEUE_REGISTRY_SIZE           0
 #define configCHECK_FOR_STACK_OVERFLOW      1
